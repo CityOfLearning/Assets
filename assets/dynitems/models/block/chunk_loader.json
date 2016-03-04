@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "all": "dynitems:blocks/chunk_loader"
+    }
+}
