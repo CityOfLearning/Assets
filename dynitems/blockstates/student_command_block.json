@@ -1,8 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "dynitems:student_command_block" },
-        "triggered=true": { "model": "dynitems:student_command_block" },
-        "triggered=false": { "model": "dynitems:student_command_block" },
-        "inventory": { "model": "dynitems:student_command_block" }
+        "normal": { "model": "dynitems:student_command_block" }
     }
 }
