@@ -1,0 +1,14 @@
+{
+    "mob.ghost.ambient": {
+        "category": "master",
+        "sounds": ["ghost/spooky1", "ghost/spooky2", "ghost/spooky3", "ghost/spooky4", "ghost/spooky5"]
+    },
+    "robot.on": {
+        "category": "master",
+        "sounds": ["robot/robot_on"]
+    },
+    "robot.beep": {
+        "category": "master",
+        "sounds": ["robot/robot_beeps_up", "robot/robot_beeps_cascade"]
+    }
+}
