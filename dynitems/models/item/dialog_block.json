@@ -1,5 +1,5 @@
 {
-    "parent": "dynfixins:block/student_command_block",
+    "parent": "dynfixins:block/dialog_block",
     "display": {
         "thirdperson": {
             "rotation": [ 10, -45, 170 ],

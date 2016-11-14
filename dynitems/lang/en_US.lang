@@ -1,1 +1,4 @@
 tile.student_command_block.name=Student Command Block
+
+entity.dynfixins.dynCrashTestEntity.name=Crash Test Dummy
+entity.dynfixins.dynGhostEntity.name=Ghost

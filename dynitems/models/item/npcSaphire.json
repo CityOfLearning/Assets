@@ -1,7 +1,7 @@
 {
 	"parent": "builtin/generated",
 	"textures": {
-		"layer0": "dynitems:items/npcSaphire"
+		"layer0": "dynfixins:items/npcSaphire"
 	},
 	"display": {
 		"thirdperson": {

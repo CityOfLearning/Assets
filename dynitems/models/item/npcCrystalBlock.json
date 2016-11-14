@@ -1,5 +1,5 @@
 {
-	"parent": "dynitems:block/npcCrystalBlock",
+	"parent": "dynfixins:block/npcCrystalBlock",
     "display": {
         "thirdperson": {
             "rotation": [ 10, -45, 170 ],

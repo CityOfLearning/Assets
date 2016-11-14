@@ -1,7 +1,7 @@
 {
 	"parent": "builtin/generated",
 	"textures": {
-		"layer0": "dynitems:items/npcAncientCoin"
+		"layer0": "dynfixins:items/npcAncientCoin"
 	},
 	"display": {
 		"thirdperson": {

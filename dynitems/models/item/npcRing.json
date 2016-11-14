@@ -1,7 +1,7 @@
 {
 	"parent": "builtin/generated",
 	"textures": {
-		"layer0": "dynitems:items/npcRing"
+		"layer0": "dynfixins:items/npcRing"
 	},
 	"display": {
 		"thirdperson": {

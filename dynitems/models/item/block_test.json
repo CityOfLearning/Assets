@@ -1,5 +1,5 @@
 {
-    "parent": "dynitems:block/block_test",
+    "parent": "dynfixins:block/block_test",
     "display": {
         "thirdperson": {
             "rotation": [ 10, -45, 170 ],

@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "dynitems:student_command_block" }
+        "normal": { "model": "dynfixins:student_command_block" }
     }
 }

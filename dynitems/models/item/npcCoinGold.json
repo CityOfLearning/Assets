@@ -1,7 +1,7 @@
 {
 	"parent": "builtin/generated",
 	"textures": {
-		"layer0": "dynitems:items/npcCoinGold"
+		"layer0": "dynfixins:items/npcCoinGold"
 	},
 	"display": {
 		"thirdperson": {

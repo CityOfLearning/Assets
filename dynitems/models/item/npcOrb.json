@@ -1,7 +1,7 @@
 {
 	"parent": "builtin/generated",
 	"textures": {
-		"layer0": "dynitems:items/npcOrb"
+		"layer0": "dynfixins:items/npcOrb"
 	},
 	"display": {
 		"thirdperson": {

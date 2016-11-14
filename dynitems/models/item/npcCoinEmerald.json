@@ -1,7 +1,7 @@
 {
 	"parent": "builtin/generated",
 	"textures": {
-		"layer0": "dynitems:items/npcCoinEmerald"
+		"layer0": "dynfixins:items/npcCoinEmerald"
 	},
 	"display": {
 		"thirdperson": {

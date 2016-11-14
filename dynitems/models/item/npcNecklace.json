@@ -1,7 +1,7 @@
 {
 	"parent": "builtin/generated",
 	"textures": {
-		"layer0": "dynitems:items/npcNecklace"
+		"layer0": "dynfixins:items/npcNecklace"
 	},
 	"display": {
 		"thirdperson": {
