@@ -1,3 +1,5 @@
+key.categories.toggle=DYN Server Keys
+
 key.toggle.skinui=Skin Selection
 key.toggle.achievementgui=Achievement GUI
 key.toggle.hideui=Hide Overlay
@@ -5,3 +7,6 @@ key.toggle.buildui=Builder Tools
 key.toggle.studentui=Student GUI
 key.toggle.mentorui=Mentor GUI
 key.toggle.adminui=Admin GUI
+key.toggle.scriptui=Programmer Interface
+
+entity.dynrobot.dynRobotEntity.name=Robot
