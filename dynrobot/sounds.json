@@ -1,0 +1,10 @@
+{
+    "robot.on": {
+        "category": "master",
+        "sounds": ["robot/robot_on"]
+    },
+    "robot.beep": {
+        "category": "master",
+        "sounds": ["robot/robot_beeps_up", "robot/robot_beeps_cascade"]
+    }
+}

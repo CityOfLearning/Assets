@@ -1,5 +1,13 @@
 tile.student_command_block.name=Student Command Block
 tile.dialog_block.name=Dialog Block
+tile.student_dialog_block.name=Student Dialog Block
+tile.proximity_block.name=Proximity Block
+tile.student_proximity_block.name=Student Proximity Block
+tile.timer_block.name=Timer Block
+tile.student_timer_block.name=Student Timer Block
 
 entity.dynfixins.dynCrashTestEntity.name=Crash Test Dummy
 entity.dynfixins.dynGhostEntity.name=Ghost
+
+itemGroup.robotab=Robot Components
+itemGroup.dynit=DYN Utility Items

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "dynfixins:timer_block" },
+        "powered=true":  { "model": "dynfixins:timer_block"},
+        "powered=false":  { "model": "dynfixins:timer_block"}
+    }
+}
