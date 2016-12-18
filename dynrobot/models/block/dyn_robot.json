@@ -2,7 +2,8 @@
     "textures": {
         "0": "dynrobot:blocks/robot_base",
         "1": "dynrobot:blocks/robot_head",
-        "2": "dynrobot:blocks/robot_head2"
+        "2": "dynrobot:blocks/robot_head2",
+        "particle":"minecraft:blocks/stone"
     },
     "elements": [
         {
