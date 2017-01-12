@@ -1,3 +1,5 @@
 item.dyn_robot_remote.name=Robot Remote
+item.dyn_robot_spawn.name=Robot Spawner
+item.dyn_robot_wrench.name=Wrench
 tile.dyn_robot.name=Robot
 robot.inventory=Robot Inventory
