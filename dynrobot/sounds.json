@@ -3,8 +3,12 @@
         "category": "master",
         "sounds": ["robot/robot_on"]
     },
+    "robot.remote": {
+        "category": "master",
+        "sounds": ["robot/robot_beeps_up"]
+    },
     "robot.beep": {
         "category": "master",
-        "sounds": ["robot/robot_beeps_up", "robot/robot_beeps_cascade"]
+        "sounds": ["robot/robot_beeps_cascade"]
     }
 }
