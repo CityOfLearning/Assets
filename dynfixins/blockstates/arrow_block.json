@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "normal": { "model": "dynfixins:arrow_block" },
+        "rotation=0": { "model": "dynfixins:arrow_block" },
+        "rotation=1": { "model": "dynfixins:arrow_block", "z": 45 },
+        "rotation=2": { "model": "dynfixins:arrow_block", "z": 90 },
+        "rotation=3": { "model": "dynfixins:arrow_block", "z": 135 },
+        "rotation=4": { "model": "dynfixins:arrow_block", "z": 180 },
+        "rotation=5": { "model": "dynfixins:arrow_block", "z": 225 },
+        "rotation=6": { "model": "dynfixins:arrow_block", "z": 270 },
+        "rotation=7": { "model": "dynfixins:arrow_block", "z": 315 }
+    }
+}
