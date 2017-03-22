@@ -10,6 +10,7 @@ item.dyn_robot_memory_5.name=Robot MemoryX6
 item.dyn_robot_memory_6.name=Robot MemoryX7
 item.dyn_robot_memory_7.name=Robot MemoryX8
 item.dyn_robot_card.name=Save Card
+item.dyn_robot_whistle.name=Whistle
 item.expansion_chip_0.name=Climbing Chip
 item.expansion_chip_1.name=Jumping Chip
 item.expansion_chip_2.name=Mining Chip

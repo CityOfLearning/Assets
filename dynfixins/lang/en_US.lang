@@ -12,3 +12,5 @@ entity.dynfixins.dynGhostEntity.name=Ghost
 
 itemGroup.robotab=Robot Components
 itemGroup.dynit=DYN Utility Items
+
+item.schematic.name=Schematic
