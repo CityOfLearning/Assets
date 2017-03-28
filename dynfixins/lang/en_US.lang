@@ -14,3 +14,10 @@ itemGroup.robotab=Robot Components
 itemGroup.dynit=DYN Utility Items
 
 item.schematic.name=Schematic
+item.ach_medal.name=Achievement Medal
+item.ach_medal_0.name=Achievement Medal
+item.ach_medal_1.name=Achievement Medal
+item.ach_medal_2.name=Achievement Medal
+item.ach_medal_3.name=Achievement Medal
+item.ach_medal_4.name=Achievement Medal
+item.delay_diode.name=Redstone Buffer
