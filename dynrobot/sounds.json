@@ -1,14 +1,42 @@
 {
-    "robot.on": {
-        "category": "master",
-        "sounds": ["robot/robot_on"]
-    },
-    "robot.remote": {
-        "category": "master",
-        "sounds": ["robot/robot_beeps_up"]
-    },
-    "robot.beep": {
-        "category": "master",
-        "sounds": ["robot/robot_beeps_cascade"]
-    }
+	"robot.on": {
+		"category": "master",
+		"sounds": [
+			"robot/robot_on"
+		]
+	},
+	"robot.remote": {
+		"category": "master",
+		"sounds": [
+			"robot/robot_beeps_up"
+		]
+	},
+	"robot.error": {
+		"category": "master",
+		"sounds": [
+			"robot/error"
+		]
+	},
+	"robot.harsh": {
+		"category": "master",
+		"sounds": [
+			"robot/harsh_chime"
+		]
+	},
+	"robot.beep": {
+		"category": "master",
+		"sounds": [
+			"robot/beep1",
+			"robot/beep2",
+			"robot/beep3",
+			"robot/beep4",
+			"robot/beep5",
+			"robot/beep6",
+			"robot/beep7",
+			"robot/beep8",
+			"robot/beep9",
+			"robot/beep10",
+			"robot/beep11"
+		]
+	}
 }
