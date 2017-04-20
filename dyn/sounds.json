@@ -1,6 +1,6 @@
 {
     "get.achievement": {
         "category": "master",
-        "sounds": ["sucess4", "success5"]
+        "sounds": ["success4", "success5"]
     }
 }
