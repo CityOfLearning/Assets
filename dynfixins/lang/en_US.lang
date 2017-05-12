@@ -9,6 +9,8 @@ tile.decision_block.name=Decision Block
 tile.rs_latch.name=Redstone Latch
 tile.delay_block.name=Redstone Buffer
 tile.delay_block_off.name=Redstone Buffer
+tile.indication_lamp_on.name=Redstone Indicator
+tile.indication_lamp_off.name=Redstone Indicator
 
 entity.dynfixins.dynCrashTestEntity.name=Crash Test Dummy
 entity.dynfixins.dynGhostEntity.name=Ghost
