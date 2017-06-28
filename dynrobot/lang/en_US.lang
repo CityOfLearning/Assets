@@ -27,6 +27,9 @@ item.expansion_chip_12.name=#CORRUPTED CHIP#
 item.expansion_chip_13.name=Boolean Chip
 item.expansion_chip_14.name=Loop Chip 
 item.expansion_chip_15.name=Echo Chip
+item.expansion_chip_15.name=Echo Chip
+item.dyn_robot_wipe.name=Memory Wiper
+item.dyn_robot_printer_0.name=Recombobulator
 
 tile.dyn_robot.name=Robot
 tile.dyn_robot_magnet.name=Magnetic Block
