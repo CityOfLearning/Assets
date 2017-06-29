@@ -1,18 +1,18 @@
 {
 	"robot.on": {
-		"category": "master",
+		"category": "neutral",
 		"sounds": [
 			"robot/robot_on"
 		]
 	},
 	"robot.remote": {
-		"category": "master",
+		"category": "player",
 		"sounds": [
 			"robot/robot_beeps_up"
 		]
 	},
 	"robot.error": {
-		"category": "master",
+		"category": "player",
 		"sounds": [
 			"robot/error"
 		]
@@ -24,7 +24,7 @@
 		]
 	},
 	"robot.beep": {
-		"category": "master",
+		"category": "neutral",
 		"sounds": [
 			"robot/beep1",
 			"robot/beep2",
@@ -37,6 +37,12 @@
 			"robot/beep9",
 			"robot/beep10",
 			"robot/beep11"
+		]
+	},
+	"robo.whistle": {
+	"category": "player",
+		"sounds": [
+			"robot/whistle"
 		]
 	}
 }
