@@ -1,10 +1,10 @@
 tile.student_command_block.name=Student Command Block
-tile.dialog_block.name=Dialog Block
-tile.student_dialog_block.name=Student Dialog Block
-tile.proximity_block.name=Proximity Block
-tile.student_proximity_block.name=Student Proximity Block
-tile.timer_block.name=Timer Block
-tile.student_timer_block.name=Student Timer Block
+tile.dialog_block.name=Admin Dialog Block
+tile.student_dialog_block.name=Dialog Block
+tile.proximity_block.name=Admin Proximity Block
+tile.student_proximity_block.name=Proximity Block
+tile.timer_block.name=Admin Timer Block
+tile.student_timer_block.name=Timer Block
 tile.decision_block.name=Decision Block
 tile.rs_latch.name=Redstone Latch
 tile.delay_block.name=Redstone Buffer
