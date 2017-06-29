@@ -1,7 +1,7 @@
 {
 	"parent": "builtin/generated",
 	"textures": {
-		"layer0": "dynrobot:items/chipX5"
+		"layer0": "dynrobot:items/chipCorrupted"
 	},
 	"display": {
 		"thirdperson": {
